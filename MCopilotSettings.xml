@@ -1,0 +1,10 @@
+<application>
+  <component name="MCopilotSettingsState">
+    <option name="inlineSuggestionEnabled" value="true" />
+    <option name="showIdeCompletionSideBySide" value="true" />
+    <option name="systemPrompt" value="" />
+    <option name="tabOrder" value="" />
+    <option name="unitTestFramework" value="JUnit4" />
+    <option name="unitTestMockFramework" value="Mockito2" />
+  </component>
+</application>
